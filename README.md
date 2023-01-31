@@ -17,7 +17,12 @@ mini python project
 4. **맛집 추천 기능**: 취향에 맞는 추천 또는 랜덤 추천 기능<br>
 
 ## 사용도구
-
+<p aline='center'>
+<img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
+<img src="http://img.shields.io/badge/Oracle-3776AB?style=round&logo=Oracle&logoColor=white" />
+ <img src="http://img.shields.io/badge/MySQL-3776AB?style=round&logo=MySQL&logoColor=white" />
+ 
+  </p>
 
 ## 개발 환경
 - 파이썬 버전 : 3.9.12
