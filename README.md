@@ -9,7 +9,7 @@ mini python project
 4. 담당 기능 : 등록 기능
 
 
-## <span color=yellow>구현기능</span>
+## <span style='color:yellow'>구현기능</span>
 
 1. **맛집 등록 기능**: DB에 등록되어있지 않은 새로운 식당을 판별하여 DB에 새롭게 등록 시키는 기능
 2. **후기 등록 기능**: 등록되어있는 식당의 리뷰를 작성하는 기능
