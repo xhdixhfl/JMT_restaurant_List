@@ -9,7 +9,7 @@ mini python project
 4. 담당 기능 : 등록 기능
 
 
-## <span style="color:yellow">구현기능</span>
+## <span color=yellow>구현기능</span>
 
 1. **맛집 등록 기능**: DB에 등록되어있지 않은 새로운 식당을 판별하여 DB에 새롭게 등록 시키는 기능
 2. **후기 등록 기능**: 등록되어있는 식당의 리뷰를 작성하는 기능
@@ -17,12 +17,12 @@ mini python project
 4. **맛집 추천 기능**: 취향에 맞는 추천 또는 랜덤 추천 기능<br>
 
 ## 사용도구
-<p aline='center'>
-<img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
-<img src="http://img.shields.io/badge/Oracle-3776AB?style=round&logo=Oracle&logoColor=white" />
+<div aline=center>
+ <img src="http://img.shields.io/badge/Python-3776AB?style=round&logo=Python&logoColor=white" />
+ <img src="http://img.shields.io/badge/Oracle-3776AB?style=round&logo=Oracle&logoColor=white" />
  <img src="http://img.shields.io/badge/MySQL-3776AB?style=round&logo=MySQL&logoColor=white" />
  
-  </p>
+  </div>
 
 ## 개발 환경
 - 파이썬 버전 : 3.9.12
@@ -33,3 +33,6 @@ mini python project
 
 
 ## 발표자료
+
+[맛집 프로그램(발표자료).pdf](https://github.com/xhdixhfl/JMT_restaurant_List/files/10544457/default.pdf)
+
