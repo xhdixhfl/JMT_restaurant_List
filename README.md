@@ -1,5 +1,5 @@
 # JMT_restaurant_List 😋
-mini python project
+> 첫 파이썬 프로젝트
 
 
 ## 프로젝트 소개
